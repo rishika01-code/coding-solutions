@@ -40,7 +40,7 @@ Print $n$ lines, one corresponding to each $i$.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-12T16:33:52.327Z  
+**Submitted:** 2026-10-12T16:34:27.924Z  
 
 ```py
 if __name__ == '__main__':
